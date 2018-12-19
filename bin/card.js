@@ -20,7 +20,7 @@ let data = {
   github: chalk.cyan('https://github.com/alessbell'),
   linkedin: chalk.cyan('https://linkedin.com/in/alessiabellisario'),
   web: chalk.cyan('https://aless.co'),
-  npx: chalk.white('npx bitandbang'),
+  npx: chalk.white('npx alessbell'),
   labelWork: chalk.white.bold('      Work:'),
   labelTwitter: chalk.white.bold('   Twitter:'),
   labelGitHub: chalk.white.bold('    GitHub:'),
